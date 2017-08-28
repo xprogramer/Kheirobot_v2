@@ -4,5 +4,8 @@ The program of the new homemade 8 DOFs biped robot which can do different action
 # RC transmitter
 https://github.com/xprogramer/RC-Controller
 
+# Demonstration
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DZ1AnPju9BM/0.jpg)](https://www.youtube.com/watch?v=DZ1AnPju9BM)
+
 # Copyright
 Copyright (C) 2017 x-programer
